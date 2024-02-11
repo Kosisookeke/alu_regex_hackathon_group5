@@ -1,1 +1,1 @@
-# alu_regex_hackathon_group5
+In this hackathon, we were given a required data from the hundreds of thousands of pages of string response we got from our API; using Python, we decided to unleash the raw power of Regular Expressions.
